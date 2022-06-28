@@ -1,0 +1,4 @@
+GET https://rest-sandbox.coinapi.io/v1/exchangerate/BTC/USD
+X-CoinAPI-Key: 3EE86FE8-A6DC-4BC5-9695-BFEF37D128E3
+Accept: application/json
+Accept-Encoding: deflate, gzip
